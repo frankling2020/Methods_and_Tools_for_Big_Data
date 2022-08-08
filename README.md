@@ -1,2 +1,5 @@
 # Methods and Tools for Big Data
-Some related coursework for ece4721J
+
+Some related experience for big data
+
+(Please don't copy and paste that violates Honor code)
