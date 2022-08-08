@@ -1,0 +1,45 @@
+10
+22617 scores.csv
+2022-05-29 12:59:53,797 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0001
+real	0m24.059s
+=====================================================
+20
+47637 scores.csv
+2022-05-29 13:00:20,853 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0002
+real	0m22.314s
+=====================================================
+50
+122177 scores.csv
+2022-05-29 13:00:46,102 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0003
+real	0m21.227s
+=====================================================
+100
+246335 scores.csv
+2022-05-29 13:01:11,587 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0004
+real	0m18.845s
+=====================================================
+200
+491876 scores.csv
+2022-05-29 13:01:35,746 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0005
+real	0m19.982s
+=====================================================
+500
+1252403 scores.csv
+2022-05-29 13:02:05,487 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0006
+real	0m26.390s
+=====================================================
+1000
+2499041 scores.csv
+2022-05-29 13:02:46,716 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0007
+real	0m27.491s
+=====================================================
+2000
+4911712 scores.csv
+2022-05-29 13:03:35,734 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0008
+real	0m31.186s
+=====================================================
+5000
+12598306 scores.csv
+2022-05-29 13:04:59,363 INFO impl.YarnClientImpl: Submitted application application_1653829145352_0009
+real	0m57.712s
+=====================================================
